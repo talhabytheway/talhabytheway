@@ -28,16 +28,16 @@
 
 I am a Web Developer & GFX <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 
-- :seedling: Exploring more about Web dev and web3.
+- 🌱 Exploring more about Web dev and web3.
 
-- :zap: In my free time, I watch Netflix <img src="https://media4.giphy.com/media/Xfmqj2aWB9d4VAWXFs/giphy.gif" width="30"> and read books.
+- ⚡ In my free time, I watch Netflix <img src="https://media4.giphy.com/media/Xfmqj2aWB9d4VAWXFs/giphy.gif" width="30"> and read books.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-talhabytheway-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/talhabytheway/)
+- 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-talhabytheway-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/talhabytheway/)
 
 ---
 
 <div align="center"> 
-<h1> :hammer_and_wrench: Languages and Tools </h1>
+<h1> 🛠️ Languages and Tools 🛠️ </h1>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -53,7 +53,7 @@ I am a Web Developer & GFX <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 
 <div align="center">
-<h1> :fire: My Stats </h1>
+<h1> 🔥 My Stats 🔥 </h1>
 
 <img src="https://komarev.com/ghpvc/?username=talhabytheway&label=Profile%20Views&color=0e75b6&style=flat" alt="talhabytheway" />
 
