@@ -58,7 +58,8 @@ I am a Web Developer & GFX <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <img src="https://komarev.com/ghpvc/?username=talhabytheway&label=Profile%20Views&color=0e75b6&style=flat" alt="talhabytheway" />
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=talhabytheway&theme=dark&hide_border=true&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=talhabytheway&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talhabytheway&layout=compact&theme=vision-friendly-dark&hide_border=true&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talhabytheway&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
