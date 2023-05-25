@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/k31AA1YcEfmramHyoE/giphy.gif" width="170"/>
+  <img src="https://avatars.githubusercontent.com/u/63504127" width="170"/>
   <div id="badges">
   
   <a href="http://mohd-talha.web.app">
