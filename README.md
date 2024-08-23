@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/63504127" width="170"/>
   <div id="badges">
   
-  <a href="http://mohd-talha.web.app">
+  <a href="https://talha.fyi">
     <img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=Alibaba-Cloud&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/talhabytheway/">
