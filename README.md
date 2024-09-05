@@ -8,9 +8,9 @@
   <a href="https://www.linkedin.com/in/talhabytheway/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.twitter.com/talhaism_">
+<!--   <a href="https://www.twitter.com/talhaism_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> -->
 </div>
 <h1>
   Hello World
