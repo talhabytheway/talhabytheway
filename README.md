@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://talha.fyi">Portfolio</a> ·
-  <a href="https://github.com/talhabytheway">GitHub</a>
+  <a href="https://github.com/talhabytheway">GitHub</a> ·
   <a href="https://linkedin.com/talhabytheway">LinkedIn</a>
 </p>
 
